@@ -1,5 +1,5 @@
-# Hiring-For-Mobile-App-Developers-
-Hiring For Mobile App Developers and Front End Developers who are strong in React js and React Native
+# Hiring-For-Front-End-Developers-
+Hiring For Mobile App Developers and Front End Developers who are strong in React js
 I Have attached the Companies Job Descrption
 
 Greetings from Kriyators!
